@@ -1,0 +1,18 @@
+{
+    "name": "joao/www",
+    "description": "Upload de Arquivos PHP - POO",
+    "license": "PRIVATE",
+    "authors": [
+        {
+            "name": "Jvicto-Dev",
+            "email": "joaovicto12112001@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
